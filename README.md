@@ -3,6 +3,9 @@ Some extended information of the DIY Geiger Counter sold online.
 
 As I felt the provided info needed to reorganised a little, so that I could follow it easier, I made these files.
 
+Here is the link of the product:
+https://github.com/2969773606/GeigerCounter-V1.1
+
 Added here is the slightly reorganised bill of materials, so that I can be searched in excel or other similar program.
 Also is the layout of the PCB with the numbers overlayed to make it quicker to spot where to install parts.
 
