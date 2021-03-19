@@ -6,7 +6,7 @@ As I felt the provided info needed to reorganised a little, so that I could foll
 Here is the link of the product:
 https://github.com/2969773606/GeigerCounter-V1.1
 
-Added here is the slightly reorganised bill of materials, so that I can be searched in excel or other similar program.
+Added here is the slightly reorganised bill of materials, so that it can be searched in excel or other similar program.
 Also is the layout of the PCB with the numbers overlayed to make it quicker to spot where to install parts.
 
 I uploaded it here incase others might find it useful.
