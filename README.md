@@ -8,7 +8,7 @@ Also is the layout of the PCB with the numbers overlayed to make it quicker to s
 
 I uploaded it here incase others might find it useful.
 
-For information, I found that there was 1 extra resistor included (as part 27 on the list).
+For information, I found that there was 1 extra resistor included (as part 27 on the list, 100R).
 There is unpopulated board area labelled R34. On the schematic of the board, its labelled as being NC.
 
 ![image](https://user-images.githubusercontent.com/45496883/111727862-0e917480-88af-11eb-9072-de6ba8f87231.png)
