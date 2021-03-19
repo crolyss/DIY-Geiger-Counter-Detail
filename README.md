@@ -12,3 +12,13 @@ Reference:
 DIY GeigerCounter-V1.1
 (sold by many vendors, such as aliexpress)
 PCB - RadiationD-v1.1(CAJOE)
+
+Here is an overlayed version of the PCB, with colour coding, and numbers related to the components list in this git.
+
+It may be useful when printed out.
+
+![Geiger PCB Overlay](https://user-images.githubusercontent.com/45496883/111726718-cec98d80-88ac-11eb-9d0f-15a0c22532e1.jpg)
+
+Here is the overlay on it's own.
+
+![Geiger PCB Overlay Only](https://user-images.githubusercontent.com/45496883/111726764-e143c700-88ac-11eb-89d0-cd82d3aa3480.jpg)
