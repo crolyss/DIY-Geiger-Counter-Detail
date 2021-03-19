@@ -22,3 +22,7 @@ It may be useful when printed out.
 Here is the overlay on it's own.
 
 ![Geiger PCB Overlay Only](https://user-images.githubusercontent.com/45496883/111726764-e143c700-88ac-11eb-89d0-cd82d3aa3480.jpg)
+
+Here is an image of the added excel file.
+
+![Geiger Counter Parts List](https://user-images.githubusercontent.com/45496883/111727557-71ced700-88ae-11eb-93d3-aaa87be26b88.JPG)
