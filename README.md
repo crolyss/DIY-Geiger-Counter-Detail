@@ -8,6 +8,13 @@ Also is the layout of the PCB with the numbers overlayed to make it quicker to s
 
 I uploaded it here incase others might find it useful.
 
+For information, I found that there was 1 extra resistor included (as part 27 on the list).
+There is unpopulated board area labelled R34. On the schematic of the board, its labelled as being NC.
+
+![image](https://user-images.githubusercontent.com/45496883/111727862-0e917480-88af-11eb-9072-de6ba8f87231.png)
+
+
+
 Reference:
 DIY GeigerCounter-V1.1
 (sold by many vendors, such as aliexpress)
